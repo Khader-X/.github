@@ -1,42 +1,43 @@
 # KhaderX (KHX)
 
 **KHX** (short for *KhaderX*) is the official open-source brand of [Khader Abueltayef](https://github.com/Khader20).  
-It represents a personal commitment to building professional, user-friendly, and extensible Python packages.
+It represents a commitment to building professional, user-friendly, and extensible Python packages for developers, engineers, and researchers.
 
 ---
 
 ## ✨ Vision
-- Create reliable and elegant tools for **Aerospace Engineering**, **Scientific Computing**, and **Developer Productivity**.  
-- Share well-documented, user-friendly libraries that make life easier for engineers and developers.  
-- Explore the “X” — the limitless possibilities of Python and problem-solving.
+- Develop reliable and elegant tools for **Aerospace Engineering**, **Scientific Computing**, and **Developer Productivity**.  
+- Deliver clear documentation, intuitive APIs, and high-quality implementations.  
+- Explore the **X** — the unknown, the limitless possibilities of Python.
 
 ---
 
 ## 📦 Package Naming
-All packages follow a **consistent prefix**:
+All packages under KHX follow a consistent naming rule:
 
-- `khx_<name>` → PyPI name  
-- `Khader-X/khx_<name>` → GitHub repository  
+- **Prefix:** `khx_`  
+- **Repository name = PyPI package name**  
 
-Example:
-- [**khx_rich_console**](https://github.com/Khader-X/khx_rich_console) → colorful toolkit for terminal text, lines, tables, and progress.  
-- Future packages will follow the same rule (e.g., `khx_safe_runner`, `khx_tabletools`).
+Examples:
+- [**khx_rich_console**](https://github.com/Khader-X/khx_rich_console) → colorful toolkit for text, lines, tables, and progress in the terminal.  
+- More `khx_` packages coming soon…
 
 ---
 
 ## 📚 Repositories
 - [`khx_rich_console`](https://github.com/Khader-X/khx_rich_console) — Rich, colorful console printing toolkit.  
-*(more packages coming soon…)*
+*(this will be the flagship package, with more to follow)*
 
 ---
 
 ## 🔖 License
-All KHX packages are released under the **MIT License**, encouraging collaboration and community contributions.
+All KHX packages are released under the **MIT License**, encouraging reuse and contributions.
 
 ---
 
 ## 🤝 Contribution
-Guidelines will be added soon for those who wish to contribute, including coding standards, issue reporting, and pull request rules.
+Contribution guidelines will be published soon.  
+Focus areas: coding standards, testing practices, and clear documentation.
 
 ---
 
