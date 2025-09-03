@@ -1,6 +1,6 @@
 # KhaderX (KHX)
 
-**KHX** (short for *KhaderX*) is the official open-source brand of [Khader Abueltayef](https://github.com/KhaderDev).  
+**KHX** (short for *KhaderX*) is the official open-source brand of [Khader Abueltayef](https://github.com/Khader20).  
 It represents a personal commitment to building professional, user-friendly, and extensible Python packages.
 
 ---
