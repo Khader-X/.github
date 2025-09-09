@@ -32,8 +32,3 @@ All KX packages are released under the **MIT License**, encouraging reuse and co
 ## 🤝 Contribution
 Contribution guidelines will be published soon.  
 Focus areas: coding standards, testing practices, and clear documentation.
-
----
-
-> **KHX = KhaderX = Khader + X (the unknown, the limitless variable).**  
-> Exploring, innovating, and sharing Python tools without limits.
