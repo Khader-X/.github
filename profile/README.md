@@ -1,6 +1,6 @@
-# KhaderX (KHX)
+# KhaderX (KX)
 
-**KHX** (short for *KhaderX*) is the official open-source brand of [Khader Abueltayef](https://github.com/Khader20).  
+**KX** (short for *KhaderX*) is the official open-source brand of [Khader Abueltayef](https://github.com/Khader20).  
 It represents a commitment to building professional, user-friendly, and extensible Python packages for developers, engineers, and researchers.
 
 ---
@@ -13,25 +13,19 @@ It represents a commitment to building professional, user-friendly, and extensib
 ---
 
 ## 📦 Package Naming
-All packages under KHX follow a consistent naming rule:
+All packages under KX follow a consistent naming rule:
 
-- **Prefix:** `khx_`  
+- **Prefix:** `kx_`  
 - **Repository name = PyPI package name**  
 
 Examples:
-- [**khx_rich_console**](https://github.com/Khader-X/khx_rich_console) → colorful toolkit for text, lines, tables, and progress in the terminal.  
-- More `khx_` packages coming soon…
-
----
-
-## 📚 Repositories
-- [`khx_rich_console`](https://github.com/Khader-X/khx_rich_console) — Rich, colorful console printing toolkit.  
-*(this will be the flagship package, with more to follow)*
+- [**kx_publish-pypi**](https://github.com/Khader-X/khx_publish-pypi) → interactive command-line interface that simplifies the entire process of preparing, building, and publishing Python packages.  
+- More `kx_` packages coming soon…
 
 ---
 
 ## 🔖 License
-All KHX packages are released under the **MIT License**, encouraging reuse and contributions.
+All KX packages are released under the **MIT License**, encouraging reuse and contributions.
 
 ---
 
